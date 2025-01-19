@@ -21,7 +21,7 @@ const TICKET_IMAGES = [
     name: "Regular Ticket",
     description: "Standard event access",
     price: "0.001",
-    imageCID: "bafybeicz3iot2pcpdgfcj3ay2m6vv2xgj4adbs7c6swq4gzta64xdwd7ha", 
+    imageCID: "bafybeiadkug253mp7k6tyj3c3yy4pdhu5msnew5iqfotgmzya3mxblisqq", 
   },
   {
     id: 3,
@@ -36,6 +36,34 @@ const TICKET_IMAGES = [
     description: "Standard event access",
     price: "0.001",
     imageCID: "bafkreibnjbhrz6crn6s4qba3dcnxocdxz3lmpp4zdr4lcr25mvwgf744p4",
+  },
+  {
+    id: 5,
+    name: "Regular Ticket",
+    description: "Standard event access",
+    price: "0.001",
+    imageCID: "bafybeie2mpq7yeusflqse3mics5pqrzwnhtisvlxq4fx33g6jctg4vs23q", 
+  },
+  {
+    id: 6,
+    name: "Regular Ticket",
+    description: "Standard event access",
+    price: "0.001",
+    imageCID: "bafybeihcmtugjg7ovtoyfwzgcyby43cofvlj654x4pfqq7og4c5kfwsbnm", 
+  },
+  {
+    id: 7,
+    name: "Regular Ticket",
+    description: "Standard event access",
+    price: "0.001",
+    imageCID: "bafybeihx5adynixnqzley4twbpixgcuxnb5e4ectqilwznlyjuciunyrfq", 
+  },
+  {
+    id: 8,
+    name: "Regular Ticket",
+    description: "Standard event access",
+    price: "0.001",
+    imageCID: "bafkreihfxemusydlugmcoun4c4j2js72gui4alqgsc64p6x255w4gm2kzi", 
   }
 ];
 
@@ -236,7 +264,6 @@ function App() {
   const [error, setError] = useState("");
   const [selectedTicket, setSelectedTicket] = useState(null);
   const [metadataHash, setMetadataHash] = useState("");
-
   useEffect(() => {
     checkWalletConnection();
   }, []);
