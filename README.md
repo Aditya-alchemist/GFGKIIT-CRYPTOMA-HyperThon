@@ -1,5 +1,18 @@
 # 🎟️ NFT-Based Event Ticketing System
 
+[contributors-shield]: https://img.shields.io/github/contributors/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon.svg?style=for-the-badge
+[contributors-url]: https://github.com/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon.svg?style=for-the-badge
+[forks-url]: https://github.com/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon/network/members
+[stars-shield]: https://img.shields.io/github/stars/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon.svg?style=for-the-badge
+[stars-url]: https://github.com/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon.svg?style=for-the-badge
+[issues-url]: https://github.com/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon/issues
+[license-shield]: https://img.shields.io/github/license/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon.svg?style=for-the-badge
+[license-url]: https://github.com/Aditya-alchemist/GFGKIIT-CRYPTOMA-HyperThon/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+
 This repository contains a smart contract and supporting details for an **NFT-based event ticketing system**. The project leverages **non-tradable NFTs** to create a secure, immutable, and transparent system for managing event tickets.
 
 ---
